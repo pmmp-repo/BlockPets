@@ -1,0 +1,12 @@
+{
+  "name": "pmmp-repo/blockpets",
+  "description": "just testing stuff",
+  "type": "library",
+  "autoload": {"psr-0": {
+    "": "src"
+  }},
+  "pm": {
+    "plugin": true,
+    "main": "BlockHorizons\\BlockPets\\Loader"
+  }
+}
